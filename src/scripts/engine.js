@@ -6,9 +6,7 @@ const state = {
         score: document.querySelectorAll("#score"),
     }
 
-    values: {
-
-    }
-}
+    values: {},
+};
 
 function init () {}
